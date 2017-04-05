@@ -5,3 +5,21 @@ h1  {
     color: black;
     margin-top: 1em;
 }
+
+.left-column {
+              font-weight: bold;
+              width: 30%;
+              vertical-align: top;
+}
+
+.tableRowHeight {
+                height:80px;
+                vertical-align: top;
+
+}
+
+.orderedList {
+            padding: 0px;
+            margin: 0px;
+
+}
