@@ -1,10 +1,12 @@
-'use strict;'
+
+'use strict';
+
+
 
 var q1 = confirm('Guess who is applying for this job!');
 
 var q2 = prompt('Am I female?').toUpperCase();
-  if (q2=='YES')
-    {
+  if (q2=='YES'){
       alert("Yeah! You are right. I'm a young female.");
     } else {
       alert("Sorry, I'm not a male.");
